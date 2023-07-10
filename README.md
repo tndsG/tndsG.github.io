@@ -1,5 +1,5 @@
 <p align="center"><a href="https://tndsG.github.io"><img src="assets/user-logo/logo1.jpg" width="150"></a></p>
-<h1 align="center"><b>tndsG</b></h1>
+<h1 align="center"><b>tndsG</b></h>
 
 <h4 align="center">
 ### <b>Hi. Welcome to my Github Page.</b>
