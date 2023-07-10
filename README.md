@@ -8,7 +8,7 @@
 
 Meanwhile you can follow me on <a rel="me" href="https://mastodon.social/@tharushtnds">Mastodon</a> to get know what I'm up to.
 
-Ohh and you can contact me on <a rel="me" href="https://t.me/@cyteax">Telegram</a> .
+Ohh and you can contact me on <a rel="me" href="https://t.me/cyteax">Telegram</a> .
 
 
 Thanks in advance.
