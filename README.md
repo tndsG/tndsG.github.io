@@ -1,5 +1,8 @@
-<p align="center"><a href="https://tndsG.github.io"><img src="assets/user-logo/logo1.jpg" width="150"></a></p>
-<h1 align="center"><b>tndsG</b></h1>
+<html>
+ <head>
+ <p align="center"><a href="https://tndsG.github.io"><img src="assets/user-logo/logo1.jpg" width="150"></a></p>
+<h1 align="center"><b>tndsG</b></h1></head>
+
 
 <h4 align="center">
 ### <b>Hi. Welcome to my Github Page.</b>
@@ -12,3 +15,4 @@ Ohh and you can contact me on <a rel="me" href="https://t.me/cyteax">Telegram</a
 </h4>
 
 <h5 align="center">Thanks in advance.</h5>
+</html>
