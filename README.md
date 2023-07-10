@@ -1,5 +1,5 @@
 <p align="center"><a href="https://tndsG.github.io"><img src="assets/user-logo/logo1.jpg" width="150"></a></p>
-<h2 align="center"><b>tndsG</b></h2>
+<h1 align="center"><b>tndsG</b></h2>
 
 <h4 align="center">
 ### <b>Hi. Welcome to my Github Page.</b>
@@ -11,4 +11,4 @@ Meanwhile you can follow me on <a rel="me" href="https://mastodon.social/@tharus
 Ohh and you can contact me on <a rel="me" href="https://t.me/cyteax">Telegram</a> .
 </h4>
 
-Thanks in advance.
+<h5 align="center">Thanks in advance.</h1>
