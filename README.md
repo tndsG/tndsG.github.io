@@ -9,7 +9,7 @@
 
  Still empty eh. Don't worry I will fill it with stuff later.
 
-To Find more about me click <a href="https://github.com/tndsg/main/info.md>Here</a>
+To Find more about me click <a href="https://tndsg.github.io/info.md">Here</a>
 
 Meanwhile you can follow me on <a rel="me" href="https://mastodon.social/@tharushtnds">Mastodon</a> to get know what I'm up to.
 
