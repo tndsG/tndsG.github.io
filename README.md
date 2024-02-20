@@ -17,4 +17,6 @@ Ohh and you can contact me on <a rel="me" href="https://t.me/cyteax">Telegram</a
 </h4>
 
 <h5 align="center">Thanks in advance.</h5>
+
+<a rel="me" href="https://toot.io/@tnds">Mastodon</a>
 </html>
